@@ -4,9 +4,9 @@ This is the GitHub repository for the thesis "Reliability Aware VNF Embedding wi
 **Contents**
 This repository contains the following:
 
-**Research Papers:** This directory contains all the research papers that I refereed for my thesis. 
+**Research Papers/:** This directory contains all the research papers that I refereed for my thesis. 
 
-**docs/:** This directory contains the documentation for our approach.
+**Docs/:** This directory contains the documentation for our approach.
 
 **README.md:** This file, which provides an overview of the repository.
 
