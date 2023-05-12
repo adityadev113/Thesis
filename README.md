@@ -5,6 +5,7 @@ Contents
 This repository contains the following:
 
 docs/: This directory contains the documentation for our approach.
+
 README.md: This file, which provides an overview of the repository.
 
 Documentation
